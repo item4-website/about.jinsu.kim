@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{234:function(t,e,a){"use strict";a.r(e),a.d(e,"pageQuery",(function(){return u}));var n=a(1),c=a(111),d=(a(0),a(229));e.default=function(t){var e=t.location,a=t.data.site.siteMetadata;return Object(n.d)(d.a,{location:e,metadata:a},Object(n.d)("h1",null,"Index"),Object(n.d)("ul",null,Object(n.d)("li",null,Object(n.d)(c.a,{to:"/resume/"},"이력서")),Object(n.d)("li",null,Object(n.d)(c.a,{to:"/faq/"},"자주 묻는 질문"))))};var u="147024218"}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-170990bea1f3f0f00d5d.js.map
