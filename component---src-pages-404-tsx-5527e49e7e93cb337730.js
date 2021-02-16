@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"i6+/":function(t,a,n){"use strict";n.r(a);n("q1tI");var o=n("soUV"),e=n("1Yd/"),d=n("qKvR");a.default=function(t){var a=t.location,n=t.data.site.siteMetadata;return Object(d.d)(o.a,{location:a,metadata:n},Object(d.d)(e.a,{page_name:"Not Found",location:a}),Object(d.d)("h1",null,"Not Found"),Object(d.d)("p",null,"요청하신 페이지를 찾을 수 없습니다."))}}}]);
-//# sourceMappingURL=component---src-pages-404-tsx-5527e49e7e93cb337730.js.map
